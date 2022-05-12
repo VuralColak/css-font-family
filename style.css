@@ -3,9 +3,13 @@ body {
 }
 
 header {
-  text-align: center;
+  position: fixed;
+  margin-top: -170px;
+  margin-left: 3rem;
+  background-color: chocolate;
   font-size: xx-large;
   text-decoration: underline;
+  width: 100%;
 }
 
 main {
@@ -13,6 +17,7 @@ main {
   padding: 4rem;
   border: solid 5px;
   margin: 3rem;
+  margin-top: 150px;
 }
 
 p {
