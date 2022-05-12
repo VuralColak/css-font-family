@@ -1,0 +1,96 @@
+body {
+  background-color: chocolate;
+}
+
+header {
+  text-align: center;
+  font-size: xx-large;
+}
+
+main {
+  text-align: center;
+  padding: 4rem;
+}
+
+p {
+  font-size: 35px;
+}
+
+.p1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.p2 {
+  font-family: "Great Vibes", cursive;
+}
+
+.p3 {
+  font-family: "Koulen", cursive;
+}
+
+.p4 {
+  font-family: "Lobster", cursive;
+}
+
+.p5 {
+  font-family: "Macondo", cursive;
+}
+
+.p6 {
+  font-family: "Monoton", cursive;
+}
+
+.p7 {
+  font-family: "Oleo Script Swash Caps", cursive;
+}
+
+.p8 {
+  font-family: "Rock Salt", cursive;
+}
+
+.p9 {
+  font-family: "Rubik Glitch", cursive;
+}
+
+.p10 {
+  font-family: "Sacramento", cursive;
+}
+
+.p11 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.p12 {
+  font-family: "Special Elite", cursive;
+}
+
+.p13 {
+  font-family: "Tapestry", cursive;
+}
+
+.p14 {
+  font-family: "Water Brush", cursive;
+}
+
+.p15 {
+  font-family: "Yellowtail", cursive;
+}
+.p16 {
+  font-family: "Amatic SC", cursive;
+}
+.p17 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.p18 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.p19 {
+  font-family: "Smokum", cursive;
+}
+
+.p20 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
